@@ -1,16 +1,16 @@
-# Contemerary vs. Tudor
+# Deconstructive vs. Tudor
 
- Add short description of project here > This model can clasify a tudor or contemerary style house
+This model can clasify a tudor style building, which is a more old style of building, and can also classify a deconstructive style building, which falls into the more modern category. I decided on this topic for the project because I found it interesting how the model classified the building based on the qualities of that of the building.
 
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+The is a resnet-18 model that was ran with the Jetson-Nano and trained using a large data set of deconstructive and tudor images. It uses imagenet.py to tell the difference between the two styles.
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. You will need to have the Jetson Inference Library and python3 installed
+2. Download the model 
 
 [View a video explanation here](video link)
