@@ -17,6 +17,11 @@ The is a resnet-18 model that was ran with the Jetson-Nano and trained using a l
 5. Locate the classification directory:
 ```cd jetson-inference/python/training/classification```
 6. Define the NET and DATASET variables:
-```NET=models/
+```NET=models/arch```
+```DATASET=data/arch```
+7. Use this line to see how it does on a image (change "tudor/014059.jpg" to the example you want):
+```imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/tudor/014059.jpg test1.jpg```
+8. Open the file using the methods needed to view the result
+9. You can inport your own images if you want to test them.
 
 [View a video explanation here](video link)
