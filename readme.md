@@ -1,6 +1,6 @@
-# Project Name
+# Contemerary vs. Tudor
 
- Add short description of project here > 
+ Add short description of project here > This model can clasify a tudor or contemerary style house
 
 ![add image descrition here](direct image link here)
 
