@@ -14,8 +14,9 @@ The is a resnet-18 model that was ran with the Jetson-Nano and trained using a l
 2. Download the model (https://github.com/JoshIgnatin/deconstructiveVsTudor/tree/master/models)
 3. Download data set (https://drive.google.com/drive/folders/1Zsk8jYITbgg2i4KAmU-SSPL1c8yAyIXQ?usp=sharing)
 4. Go into your command line (terminal, vs code, etc.)
-5. Locate the classification directory
-```$ cd jetson-inference/python/training/classification```
-6.
+5. Locate the classification directory:
+```cd jetson-inference/python/training/classification```
+6. Define the NET and DATASET variables:
+```NET=models/
 
 [View a video explanation here](video link)
