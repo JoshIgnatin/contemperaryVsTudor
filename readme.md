@@ -2,7 +2,7 @@
 
 This model can clasify a tudor style building, which is a more old style of building, and can also classify a deconstructive style building, which falls into the more modern category. I decided on this topic for the project because I found it interesting how the model classified the building based on the qualities of that of the building.
 
-![add image descrition here](direct image link here)
+![Tudor House]([Imgur](https://i.imgur.com/ZKcuVO2.jpg))
 
 ## The Algorithm
 
