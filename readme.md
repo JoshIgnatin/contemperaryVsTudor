@@ -24,4 +24,4 @@ The is a resnet-18 model that was ran with the Jetson-Nano and trained using a l
 8. Open the file using the methods needed to view the result
 9. You can inport your own images if you want to test them.
 
-[View a video explanation here]([video link](https://youtu.be/i_HZ5Vq8cGw))
+[Video Explanation](https://youtu.be/i_HZ5Vq8cGw))
