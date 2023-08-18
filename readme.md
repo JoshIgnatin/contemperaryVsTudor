@@ -1,6 +1,6 @@
 # Deconstructive vs. Tudor
 
-This model can clasify a tudor style building, which is a more old style of building, and can also classify a deconstructive style building, which falls into the more modern category. I decided on this topic for the project because I found it interesting how the model classified the building based on the qualities of that of the building.
+This model can classify both Tudor-style buildings, which belong to an older architectural style, and deconstructive-style buildings, which fall under the more modern category. I chose this topic for the project because I found it fascinating to observe how the model categorizes these buildings based on their distinctive qualities.
 
 ![Tudor House]([Imgur](https://i.imgur.com/ZKcuVO2.jpg))
 
